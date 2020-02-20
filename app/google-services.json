@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "155659604417",
+    "firebase_url": "https://easyplan-5b58d.firebaseio.com",
+    "project_id": "easyplan-5b58d",
+    "storage_bucket": "easyplan-5b58d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155659604417:android:dc5c97959307dcf1",
+        "android_client_info": {
+          "package_name": "com.juliosepulveda.easyplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155659604417-4mq1resvrppflhr5egioovidt3s5ipbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juliosepulveda.easyplan",
+            "certificate_hash": "adaaabd8f6eaf0682d6c203a19da8f8be1bf5dca"
+          }
+        },
+        {
+          "client_id": "155659604417-8hflcji5bmj69jkfb2ktlpljp99qacvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAn-B36HMuLBBQ_3lLIVnHIj_RmBfZolA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155659604417-8hflcji5bmj69jkfb2ktlpljp99qacvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

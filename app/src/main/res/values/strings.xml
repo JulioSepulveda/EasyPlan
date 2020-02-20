@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">EasyPlan</string>
+
+    <string name="et_email">Email</string>
+    <string name="et_password">Contraseña</string>
+    <string name="et_confirm_pass">Confirme la contraseña</string>
+    <string name="btn_sign_in">ACCEDER</string>
+    <string name="tv_forgot_pass">He olvidado mi contraseña</string>
+    <string name="btn_new_account">CREAR NUEVA CUENTA</string>
+    <string name="btn_go_back">VOLVER A LOGIN</string>
+
+    <!--Errores autentificación Firebase-->
+    <string name="error_email_already_in_use">El email ya está siendo usado</string>
+    <string name="error_wrong_password">La contraseña no es válida</string>
+    <string name="error_default">Error de autentificación en la APP</string>
+
+    <!--Activity NewAccount -->
+    <string name="error_email">Email no valido</string>
+    <string name="error_password">La contraseña debe ser de mínimo 4 caracteres y debe contener: 1 minúscula, 1 mayúscula, 1 número</string>
+    <string name="error_confirm_pass">Debe ser igual a la contraseña</string>
+    <string name="error_new_account">Revise que todos los campos estén correctos</string>
+    <string name="verified_email">Se le ha enviado un email. Por favor, verifiquelo antes de acceder</string>
+
+    <!--Activity Login-->
+    <string name="error_email_no_verified">Primero debe verificar el email</string>
+    <string name="email_reset_password">Se le ha enviado un email para resetear su contraseña</string>
+    <string name="alert_dialog_title">Cambio de Contraseña para:</string>
+    <string name="error_sigin">Debe indicar usuario y contraseña válidos</string>
+    <string name="connection_google">Ha fallado la conexión</string>
+
+    <!--Activity Add New Plan-->
+    <string name="title_new_plan">Título</string>
+    <string name="desc_new_plan">Descripción</string>
+    <string name="add_groups">Grupos</string>
+    <string name="add_price">Precio</string>
+    <string name="btn_new_plan">CREAR PLAN</string>
+    <string name="error_data_new_plan">Por favor, rellene todos los campos</string>
+    <string name="save_new_user">Error al guardar el usuario</string>
+
+    <!--Activity Calendar-->
+    <string name="calendar_desde">DESDE:</string>
+    <string name="calendar_hasta">HASTA:</string>
+    <string name="seleccion_fecha_hasta">La fecha fin no puede ser anterior a la fecha inicio. Por favor seleccione una fecha válida</string>
+
+    <!--Activity Map-->
+    <string name="title_activity_maps">Map</string>
+    <string name="sv_localizacion">Indique la localización</string>
+    <string name="gps_permiso">Debe aceptar los permisos para utilizar el GPS</string>
+    <string name="gps_signal">Señal GPS</string>
+    <string name="gps_disable">La señal GPS no está activada. ¿Quiere activar la señal GPS ahora?</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_select">LISTO</string>
+    <string name="select_location">Selecciona una localización dejando pulsado un punto o poniéndola en el buscador</string>
+    <string name="save_new_plan">Error al guardar el plan</string>
+
+    <!--Activity New Group-->
+    <string name="title_new_group">Introduzca el nombre del grupo</string>
+    <string name="btn_new_group">CREAR GRUPO</string>
+    <string name="error_no_name">Por favor, introduzca un nombre para el grupo</string>
+    <string name="save_new_group">Error al guardar el grupo</string>
+
+</resources>
